@@ -1,0 +1,4 @@
+﻿  UI.cpp
+E:\Users\Goia John\source\repos\LAB 6\LAB 6\UI.cpp(50,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Users\Goia John\source\repos\LAB 6\LAB 6\UI.cpp(91,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  LAB 6.vcxproj -> E:\Users\Goia John\source\repos\LAB 6\Debug\LAB 6.exe
