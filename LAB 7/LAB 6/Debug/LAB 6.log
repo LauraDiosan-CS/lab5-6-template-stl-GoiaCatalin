@@ -1,0 +1,10 @@
+﻿  lab6.cpp
+  Service.cpp
+E:\Users\Goia John\source\repos\LAB 6\LAB 6\Service.cpp(94,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  UI.cpp
+E:\Users\Goia John\source\repos\LAB 6\LAB 6\UI.cpp(51,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+E:\Users\Goia John\source\repos\LAB 6\LAB 6\UI.cpp(92,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Tests.cpp
+E:\Users\Goia John\source\repos\LAB 6\LAB 6\Tests.cpp(271,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LAB 6.vcxproj -> E:\Users\Goia John\source\repos\LAB 6\Debug\LAB 6.exe
